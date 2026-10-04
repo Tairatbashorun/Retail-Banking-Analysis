@@ -10,7 +10,7 @@ end
 Alter Table AccountInfo 
 ADD
 ChurnStatus VARCHAR(40),
-AcvtivitiesStatus VARCHAR(40),
+AcvtiveStatus VARCHAR(40),
 Balancecat VARCHAR(40),
 CreditScorecat VARCHAR(40),
 Tenurecat VARCHAR(40),
