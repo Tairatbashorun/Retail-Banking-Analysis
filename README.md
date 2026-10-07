@@ -150,14 +150,15 @@ Group by AgeGroup
   ### Recommendations
 
    -Survey and feedback tools: Regular customer feedback through surveys and touchpoints can provide direct insight,  potential churn       causes such as service issues, fees, or better offers elsewhere.
-  - Adopt predictive, data –driven approaches to customer retention, moving beyond traditional metric to analyse digital behaviour,         transaction sequences, complaint logs and customer sentiment.
+  - Adopt predictive, data –driven approaches to customer retention, moving beyond traditional metric to analyze digital behavior,         transaction sequences, complaint logs and customer sentiment.
   - Introduce loyalty incentives to customers with high-balance
-  - Deploy personalized product offers based on behaviour.
+  - Deploy personalized product offers based on behavior.
    
   
 
 
-  - 
+    
+z
 
 
 
@@ -166,6 +167,5 @@ Group by AgeGroup
 
 
 
--
 
 
