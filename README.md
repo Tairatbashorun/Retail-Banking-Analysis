@@ -1,7 +1,5 @@
 # Retail-Banking-Customer-churn and Retention pattern
 
-
-
   
 ### Project Overview
 Analyzing Customer Churn and Retention Patterns in a UK-Based Multinational Retail Bank
