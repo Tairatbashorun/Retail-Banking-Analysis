@@ -5,6 +5,8 @@
 Analyzing Customer Churn and Retention Patterns in a UK-Based Multinational Retail Bank
 This project analyses customer and financial data from a retail banking institution to identify customer behavior,financial performance product usage, performance trends and key banking KPIs. The analysis uses SQL and Power BI to identify trends and generate insights that could support data-driven decision-making.
 
+"C:\Users\debas\OneDrive\Documents\Pictures\Screenshots\Screenshot (8).png"
+
 ### Data sources
 The primary data used for this project
 
