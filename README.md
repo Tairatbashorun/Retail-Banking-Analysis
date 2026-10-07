@@ -2,10 +2,12 @@
 
   
 ### Project Overview
-Analyzing Customer Churn and Retention Patterns in a UK-Based Multinational Retail Bank
-This project analyses customer and financial data from a retail banking institution to identify customer behavior,financial performance product usage, performance trends and key banking KPIs. The analysis uses SQL and Power BI to identify trends and generate insights that could support data-driven decision-making.
 
-"C:\Users\debas\OneDrive\Documents\Pictures\Screenshots\Screenshot (8).png"
+- Analyzing Customer Churn and Retention Patterns in a UK-Based Multinational Retail Bank
+- This project analyses customer and financial data from a retail banking institution to identify customer behavior,financial performance - - - product usage, performance trends and key banking KPIs. The analysis uses SQL and Power BI to identify trends and generate insights that could support data-driven decision-making.
+
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/d67a23fa-cc59-405b-9376-61afc6191fcc" />
+
 
 ### Data sources
 The primary data used for this project
@@ -13,21 +15,23 @@ The primary data used for this project
 
 ### Business problem
 The bank is experiencing increased customer churn due to:
-Intensifying competition from fintech and neobanks
-Reduced customer engagement in Germany and France
-Limited behavioral-based customer segmentation
-Absence of real-time churn monitoring and proactive retention models
+- Intensifying competition from fintech and neobanks
+- Reduced customer engagement in Germany and France
+- Limited behavioral-based customer segmentation
+- Absence of real-time churn monitoring and proactive retention models
 
 ### Project Objectives
-Identifying common characteristics among churned customers
 
-Comparing churn behavior across the UK, Germany, and France
+- Identifying common characteristics among churned customers
 
-Segmentation of  customers based on churn risk and engagement levels
+- Comparing churn behavior across the UK, Germany, and France
 
-Visualizing key churn metrics for executive decision-making
+- Segmentation of  customers based on churn risk and engagement levels
 
-Supporting targeted retention and customer engagement strategies
+- Visualizing key churn metrics for executive decision-making
+
+- Supporting targeted retention and customer engagement strategies
+- 
 
 ### Technology stack:
 
@@ -38,16 +42,17 @@ Microsoft PowerBi - Creating reports
 
 
 ### Database setup and data importation
+
  = Veritas bank database was set up using SQL Server 
  
+ 
 ### Data quality checks
+
    - Checking for duplicates, missing values, null values and outliers
   
-
-
-Feature engineering and churn-related column derivation
   
   ### Exploratory Data Analysis
+  
   EDA involved exploring data to provide solutions key business problems such:
 
   The bank is experiencing increased customer churn due to:
